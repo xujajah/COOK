@@ -1,0 +1,14 @@
+.fancy-heading{
+    font-family: lobster, cursive;
+    font-size: 1.2em;
+    color: darkgrey;
+}
+
+footer a{
+    color: black !important;
+    font-weight: normal !important;
+}
+
+footer{
+    color: black !important;
+}
